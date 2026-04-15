@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/multi_plane_mission/multi_plane_mission.egg-info
+writing ../../build/multi_plane_mission/multi_plane_mission.egg-info/PKG-INFO
+writing dependency_links to ../../build/multi_plane_mission/multi_plane_mission.egg-info/dependency_links.txt
+writing entry points to ../../build/multi_plane_mission/multi_plane_mission.egg-info/entry_points.txt
+writing requirements to ../../build/multi_plane_mission/multi_plane_mission.egg-info/requires.txt
+writing top-level names to ../../build/multi_plane_mission/multi_plane_mission.egg-info/top_level.txt
+writing manifest file '../../build/multi_plane_mission/multi_plane_mission.egg-info/SOURCES.txt'
+reading manifest file '../../build/multi_plane_mission/multi_plane_mission.egg-info/SOURCES.txt'
+writing manifest file '../../build/multi_plane_mission/multi_plane_mission.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/raft/ros2_ws/build/multi_plane_mission/build
+creating /home/raft/ros2_ws/build/multi_plane_mission/build/lib
+creating /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission
+copying multi_plane_mission/mission_node.py -> /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission
+copying multi_plane_mission/__init__.py -> /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission
+running install
+running install_lib
+creating /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission
+copying /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission/mission_node.py -> /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission
+copying /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission/__init__.py -> /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission
+byte-compiling /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission/mission_node.py to mission_node.cpython-312.pyc
+byte-compiling /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index
+creating /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index/resource_index
+creating /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index/resource_index/packages
+copying resource/multi_plane_mission -> /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index/resource_index/packages
+copying package.xml -> /home/raft/ros2_ws/install/multi_plane_mission/share/multi_plane_mission
+creating /home/raft/ros2_ws/install/multi_plane_mission/share/multi_plane_mission/launch
+copying launch/multi_plane.launch.py -> /home/raft/ros2_ws/install/multi_plane_mission/share/multi_plane_mission/launch
+running install_egg_info
+Copying ../../build/multi_plane_mission/multi_plane_mission.egg-info to /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission-0.0.0-py3.12.egg-info
+running install_scripts
+Installing mission_node script to /home/raft/ros2_ws/install/multi_plane_mission/lib/multi_plane_mission
+writing list of installed files to '/home/raft/ros2_ws/build/multi_plane_mission/install.log'

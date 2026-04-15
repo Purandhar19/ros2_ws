@@ -1,0 +1,39 @@
+[0.937s] Invoking command in '/home/raft/ros2_ws/src/multi_plane_mission': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/raft/ros2_ws/build/multi_plane_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multi_plane_mission build --build-base /home/raft/ros2_ws/build/multi_plane_mission/build install --record /home/raft/ros2_ws/build/multi_plane_mission/install.log --single-version-externally-managed install_data
+[1.315s] running egg_info
+[1.316s] creating ../../build/multi_plane_mission/multi_plane_mission.egg-info
+[1.343s] writing ../../build/multi_plane_mission/multi_plane_mission.egg-info/PKG-INFO
+[1.343s] writing dependency_links to ../../build/multi_plane_mission/multi_plane_mission.egg-info/dependency_links.txt
+[1.343s] writing entry points to ../../build/multi_plane_mission/multi_plane_mission.egg-info/entry_points.txt
+[1.344s] writing requirements to ../../build/multi_plane_mission/multi_plane_mission.egg-info/requires.txt
+[1.344s] writing top-level names to ../../build/multi_plane_mission/multi_plane_mission.egg-info/top_level.txt
+[1.344s] writing manifest file '../../build/multi_plane_mission/multi_plane_mission.egg-info/SOURCES.txt'
+[1.399s] reading manifest file '../../build/multi_plane_mission/multi_plane_mission.egg-info/SOURCES.txt'
+[1.400s] writing manifest file '../../build/multi_plane_mission/multi_plane_mission.egg-info/SOURCES.txt'
+[1.400s] running build
+[1.400s] running build_py
+[1.401s] creating /home/raft/ros2_ws/build/multi_plane_mission/build
+[1.401s] creating /home/raft/ros2_ws/build/multi_plane_mission/build/lib
+[1.401s] creating /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission
+[1.401s] copying multi_plane_mission/mission_node.py -> /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission
+[1.401s] copying multi_plane_mission/__init__.py -> /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission
+[1.401s] running install
+[1.410s] running install_lib
+[1.441s] creating /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission
+[1.441s] copying /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission/mission_node.py -> /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission
+[1.441s] copying /home/raft/ros2_ws/build/multi_plane_mission/build/lib/multi_plane_mission/__init__.py -> /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission
+[1.442s] byte-compiling /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission/mission_node.py to mission_node.cpython-312.pyc
+[1.444s] byte-compiling /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission/__init__.py to __init__.cpython-312.pyc
+[1.444s] running install_data
+[1.444s] creating /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index
+[1.444s] creating /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index/resource_index
+[1.445s] creating /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index/resource_index/packages
+[1.445s] copying resource/multi_plane_mission -> /home/raft/ros2_ws/install/multi_plane_mission/share/ament_index/resource_index/packages
+[1.445s] copying package.xml -> /home/raft/ros2_ws/install/multi_plane_mission/share/multi_plane_mission
+[1.445s] creating /home/raft/ros2_ws/install/multi_plane_mission/share/multi_plane_mission/launch
+[1.445s] copying launch/multi_plane.launch.py -> /home/raft/ros2_ws/install/multi_plane_mission/share/multi_plane_mission/launch
+[1.446s] running install_egg_info
+[1.474s] Copying ../../build/multi_plane_mission/multi_plane_mission.egg-info to /home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages/multi_plane_mission-0.0.0-py3.12.egg-info
+[1.475s] running install_scripts
+[1.639s] Installing mission_node script to /home/raft/ros2_ws/install/multi_plane_mission/lib/multi_plane_mission
+[1.640s] writing list of installed files to '/home/raft/ros2_ws/build/multi_plane_mission/install.log'
+[1.666s] Invoked command in '/home/raft/ros2_ws/src/multi_plane_mission' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/raft/ros2_ws/build/multi_plane_mission/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/raft/ros2_ws/install/multi_plane_mission/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multi_plane_mission build --build-base /home/raft/ros2_ws/build/multi_plane_mission/build install --record /home/raft/ros2_ws/build/multi_plane_mission/install.log --single-version-externally-managed install_data
